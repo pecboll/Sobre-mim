@@ -1,37 +1,41 @@
 #div1{
-    position:absolute;
-	top:0;
-	left:0;
 	z-index:11;
 	background-color:rgb(194, 194, 194);
 	width:100%;
 	height: auto;
     text-align:left;
+   margin: 0%;
 }
 h1{
     color: black;
     font: serif;
-    
+        text-align: center;
 }
 div{
-  
-    background: green;
-    width: auto;
-    padding: auto;
-    position: relative;
-    text-align: center;
-    opacity: 50;
-    filter: alpha(opacity=65);
-    top: 0;
-    left: 0;
+
 }
 
 body{
-  
-    background: white;
+  margin: 0%;
+    background: #4ABDAC;
 }
 
 p{
     display: block;
     color: rgb(65, 65, 65);
+} 
+#foto{
+    background: #DFDCE3;
+    text-align: center;
+    width: auto;
+    padding: auto;
+    margin: 0%;
+}
+
+h2{
+    margin: 0%;
+    text-align: center;
+}
+#info{
+ display: ;
 }
