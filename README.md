@@ -1,2 +1,2 @@
 # Sobre-mim
-Esse sera um pequeno repositório em HTML, CSS e JavaScript.
+Esse sera um pequeno projeto sobre mim em HTML, CSS e JavaScript.
